@@ -4,6 +4,10 @@
 - No Momento estou estudando para áreas focadas em Dados.
 - 📫 Contate-me: profissional.yfidelis@gmail.com
 
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=DevYudi7&show_icons=true&theme=tokyonight)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DevYudi7&layout=compact&theme=tokyonight)
+
 <div style="display: inline_block"><br>
   <h1>Linguagens que estou estudando no atual momento</h1>
   <img align="center" alt="" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg">
