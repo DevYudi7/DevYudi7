@@ -1,7 +1,7 @@
 ## Olá ! Me chamo Yudi Fidelis, Seja bem-vindo ao meu perfil do GitHub :)
 
-- Atualmente sou Estudante de Análise e Desenvolvimento de Sistemas.
-- No Momento estou estudando para áreas focadas em Dados.
+- 💻 Atualmente sou Estudante de Análise e Desenvolvimento de Sistemas.
+- 📊 Data | Python | SQL
 - 📫 Contate-me: profissional.yfidelis@gmail.com
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=DevYudi7&show_icons=true&theme=tokyonight)
