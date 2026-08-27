@@ -1,6 +1,6 @@
 ## Olá ! Me chamo Yudi Fidelis, Seja bem-vindo ao meu perfil do GitHub :)
 
-- 💻 Atualmente sou Estudante de Análise e Desenvolvimento de Sistemas.
+- 💻 Estudante de Análise e Desenvolvimento de Sistemas.
 - 📊 Data | Python | SQL
 - 📫 Contate-me: profissional.yfidelis@gmail.com
 
