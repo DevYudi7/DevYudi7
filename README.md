@@ -4,11 +4,62 @@
   </a>
 </div>
 
-## Olá ! Me chamo Yudi Fidelis
+# Olá! Eu sou Yudi Fidelis
 
-- 💻 Estudante de Análise e Desenvolvimento de Sistemas.
-- 📊 Data | Python | SQL
-- 📫 Contate-me: profissional.yfidelis@gmail.com
+Sou estudante de **Análise e Desenvolvimento de Sistemas**, apaixonado por tecnologia, programação e dados.
+
+Atualmente, estou focado no desenvolvimento de habilidades em **Análise de Dados, Python e SQL**, enquanto continuo aprimorando meus conhecimentos em desenvolvimento de software e tecnologias relacionadas a dados.
+
+## Atualmente estudando
+
+* Python
+* SQL e Bancos de Dados
+* Análise de Dados e Power BI
+* HTML e CSS
+* Git e GitHub
+
+## Sobre mim
+
+* Estudante de Análise e Desenvolvimento de Sistemas
+* Interessado em **Análise de Dados e Engenharia de Dados**
+* Buscando constantemente novas oportunidades para aprender e desenvolver projetos
+* Desenvolvendo minhas habilidades em programação, análise e tecnologias de dados
+
+## Contato
+
+**E-mail:** [profissional.yfidelis@gmail.com](mailto:profissional.yfidelis@gmail.com)
+
+Sinta-se à vontade para entrar em contato comigo e acompanhar minha jornada na tecnologia.
+
+---
+
+# Hello! I'm Yudi Fidelis
+
+I'm a **Systems Analysis and Development** student passionate about technology, programming, and data.
+
+Currently, I'm focused on developing my skills in **Data Analysis, Python, and SQL**, while continuously improving my knowledge of software development and data-related technologies.
+
+## Currently learning
+
+* Python
+* SQL & Databases
+* Data Analysis & Power BI
+* HTML & CSS
+* Git & GitHub
+
+## About me
+
+* Systems Analysis and Development student
+* Interested in **Data Analysis and Data Engineering**
+* Always looking for opportunities to learn and build new projects
+* Continuously developing my programming and data skills
+
+## Contact
+
+**Email:** [profissional.yfidelis@gmail.com](mailto:profissional.yfidelis@gmail.com)
+
+Feel free to reach out and follow my journey in technology.
+
 
 <div style="display: inline_block"><br>
   <h1>Linguagens que estou estudando no atual momento</h1>
@@ -23,7 +74,7 @@
 <br>
 
 <div>
-    <a href="  <a href="https:" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank">
+    <a href="www.linkedin.com/in/yudi-fidelis-14699b3b6" <a href="https:" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank">
     
 </div>
 
