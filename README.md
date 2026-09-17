@@ -21,7 +21,7 @@ Atualmente, estou focado no desenvolvimento de habilidades em **Análise de Dado
 ## Sobre mim
 
 * Estudante de Análise e Desenvolvimento de Sistemas
-* Interessado em **Análise de Dados e Engenharia de Dados**
+* Interessado em **Análise de Dados, Engenharia de Dados e Ciência de Dados**
 * Buscando constantemente novas oportunidades para aprender e desenvolver projetos
 * Desenvolvendo minhas habilidades em programação, análise e tecnologias de dados
 
